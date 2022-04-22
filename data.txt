@@ -1,0 +1,6 @@
+﻿name= kim, age=19, mark=8.7
+name= thành, age=20, mark=8.7
+name= nam, age=21, mark=8.7
+name= mạnh, age=22, mark=8.7
+name= thua, age=23, mark=8.9
+
